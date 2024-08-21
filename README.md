@@ -7,4 +7,7 @@ Alpha-Beta Pruning: This optimization technique can be used in conjunction with 
 
 ⭐Prerequisite:
   - Install python and it's basic libraries like Numpy, Pandas, sys.
-  - Also install pygame library 
+  - Also install pygame library
+
+Contributing:
+Contributions are welcome! If you'd like to improve the project, please fork the repository and submit a pull request.
